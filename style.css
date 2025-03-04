@@ -50,6 +50,7 @@ body {
 /* Happy Anniversary Text Styling */
 .anniversary-text {
     margin-top: 100px;
+    margin-left: 10px;
     font-family: 'Brush Script MT', cursive;
     font-size: 30px;
     color: rgb(25, 229, 124);
