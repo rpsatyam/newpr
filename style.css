@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 body {
-    background-color: linear-gradient(to right, red, blue);
+    background-color: palevioletred;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 130vh;
+    height: 100vh;
     margin: 0;
 }
 
