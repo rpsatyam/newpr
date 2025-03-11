@@ -19,7 +19,7 @@ body {
 .cube {
     width: 250px;
     height: 250px;
-    position: absolute;
+    position: relative;
     transform-style: preserve-3d;
     animation: rotate reverse 6s infinite linear;
 }
